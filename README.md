@@ -21,53 +21,58 @@ My mission is to grow into a **Senior Backend Engineer** by mastering real-world
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 VerifyGovtPKI_Backend
-A production-ready **Django backend system** for verifying government-issued certificates using PKI.  
-- ✅ JWT Authentication with role-based access control  
-- ⚡ Optimized PostgreSQL queries & indexes for speed  
-- 🐳 Fully containerized with Docker & Docker Compose  
-- 🧪 90% test coverage using Pytest  
+### 🎓 Teaching-Internship Portfolio Submission System (Final Year Project)
+A **Teaching-Internship Portfolio Submission System** designed for **AAMUSTED** to digitize internship supervision.  
+- 🔐 **JWT-based authentication** with role-based access (Interns, Supervisors, Admins)  
+- 📝 Monthly portfolio submissions (documents, images, videos)  
+- 🔔 Notification system for deadlines and feedback  
+- 👤 Profile management with password updates  
+- 📊 Internship progress tracking  
 
-[🔗 View Repository](https://github.com/yourusername/VerifyGovtPKI_Backend)
+**Tech Stack**  
+- **Backend:** Django, Django REST Framework, SimpleJWT, PostgreSQL  
+- **Frontend:** Vue 3, Vite, Vue Router, Pinia, Tailwind CSS, Vue Toastification, Axios  
 
----
-
-### 🛒 Scalable E-commerce Backend
-Built a multi-vendor e-commerce backend with **Django + Celery + Redis**.  
-- 🔄 Asynchronous tasks for order processing  
-- 📦 RESTful APIs with DRF & cursor pagination  
-- 🗄️ Optimized database design for large product catalogs  
-
-[🔗 View Repository](https://github.com/yourusername/ecommerce-backend)
+[🔗 View Repository](https://github.com/manaf-dev/final_year_project)
 
 ---
 
-### 📊 Analytics & Monitoring Service
-A **FastAPI + PostgreSQL** service for real-time analytics.  
-- 📡 API endpoints for event tracking  
-- 🧵 Background workers with Celery  
-- 📈 Dashboard-ready aggregated metrics  
+### 🗳️ GMSA Voting App
+A secure digital voting system built with **Django** and **Vue.js**.  
+- 🔐 User authentication & authorization with JWT  
+- 📊 Real-time vote tallying  
+- 🌍 Designed for transparent organizational elections  
 
-[🔗 View Repository](https://github.com/yourusername/analytics-service)
+[🔗 View Repository](https://github.com/manaf-dev/gmsa-voting-app)
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manaf-dev&layout=compact&theme=radical)
 
-## 🏅 Certifications
-- **AWS Certified Cloud Practitioner** – Amazon Web Services (Jul 2025)  
-- **Google Project Management** – Coursera (Jan 2023)  
-- **Google IT Automation with Python** – Coursera (Jun 2022)  
-- **Google IT Support Professional Certificate** – Coursera (May 2021)
+### 🛍️ Clothing Retail Store Management System
+A full-stack **POS system** built with Django REST Framework and Vue.js.  
+- 🛒 **Product Management**: Add, edit, categorize products with variants  
+- 📦 **Inventory Management**: Real-time stock tracking & low-stock alerts  
+- 💳 **POS Checkout System**: Receipt generation & sales tracking  
+- 👥 **Customer Management**: Profiles, purchase history, loyalty tracking  
+- 📈 **Sales Reporting**: Analytics, export, and visualization  
+- 👨‍💼 **Staff Management**: Role-based access & staff activity tracking  
+
+**Tech Stack**  
+- **Backend:** Django REST Framework, MySQL, Python 3.10+  
+- **Frontend:** Vue.js 3, Tailwind CSS, Node.js, Axios  
+
+[🔗 View Repository](https://github.com/manaf-dev/Clothing-retail-store)
 
 ---
 
