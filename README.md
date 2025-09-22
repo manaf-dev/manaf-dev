@@ -1,5 +1,5 @@
 # Hi, I'm Manaf 👋  
-🚀 Backend Developer | Django & FastAPI | Building Scalable Systems  
+🚀 Software Developer | AWS Certified Cloud Practitioner
 
 I design and build robust backend systems with a focus on **clean architecture, performance, and production readiness**.  
 My mission is to grow into a **Senior Backend Engineer** by mastering real-world system design challenges.
@@ -7,11 +7,12 @@ My mission is to grow into a **Senior Backend Engineer** by mastering real-world
 ---
 
 ## 👨‍💻 About Me
-- 💼 Backend Developer specialized in **Django & FastAPI**
-- 🛠️ Skilled in **PostgreSQL, Redis, Celery, Docker, Pytest**
-- 📚 Currently diving deep into **System Design & Advanced DSA**
-- 🎯 Goal: Become a **Senior Backend Engineer** capable of designing scalable, production-grade systems
+- 💼 Software Developer specialized in Backend
+- 🛠️ Experienced in **Python, Django, DRF, FastAPI, PostgreSQL, MySQL, MongoDB, Redis, Celery, Docker, AWS, Vue.js**  
 - ✍🏽 I write clean, testable, and maintainable code following best practices
+- 🏆 Hackathon Finalist – **WeWire HackHive 1.0 (May 2025, 2nd Runner-Up)**  
+- 🌍 Community Service Volunteer – **Hohoe Zongo Tech Community (HOZTEC)** (teaching coding & organizing tech events)
+- 😄 Fun fact: I serious love for memes
 
 ---
 
@@ -60,6 +61,7 @@ A **FastAPI + PostgreSQL** service for real-time analytics.
 [🔗 View Repository](https://github.com/yourusername/analytics-service)
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manaf-dev&layout=compact&theme=radical)
 
 ## 🏅 Certifications
 - **AWS Certified Cloud Practitioner** – Amazon Web Services (Jul 2025)  
