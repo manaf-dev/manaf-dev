@@ -33,11 +33,10 @@ My mission is to grow into a **Senior Backend Engineer** by mastering real-world
 
 ## 🚀 Featured Projects
 
-### 🎓 Teaching-Internship Portfolio Submission System (Final Year Project)
-A **Teaching-Internship Portfolio Submission System** designed for **AAMUSTED** to digitize internship supervision.  
+### 🎓 Teaching-Internship Portfolio Submission System
+A **Teaching-Internship Portfolio Submission System** designed for my university, **AAMUSTED,** to digitize internship supervision.  
 - 🔐 **JWT-based authentication** with role-based access (Interns, Supervisors, Admins)  
 - 📝 Monthly portfolio submissions (documents, images, videos)  
-- 🔔 Notification system for deadlines and feedback  
 - 👤 Profile management with password updates  
 - 📊 Internship progress tracking  
 
@@ -45,34 +44,17 @@ A **Teaching-Internship Portfolio Submission System** designed for **AAMUSTED** 
 - **Backend:** Django, Django REST Framework, SimpleJWT, PostgreSQL  
 - **Frontend:** Vue 3, Vite, Vue Router, Pinia, Tailwind CSS, Vue Toastification, Axios  
 
-[🔗 View Repository](https://github.com/manaf-dev/final_year_project)
+[🔗 View Repository](https://github.com/manaf-dev/internship-portfolio-submission-system)
 
 ---
 
-### 🗳️ GMSA Voting App
+### 🗳️ Voting App
 A secure digital voting system built with **Django** and **Vue.js**.  
 - 🔐 User authentication & authorization with JWT  
 - 📊 Real-time vote tallying  
 - 🌍 Designed for transparent organizational elections  
 
 [🔗 View Repository](https://github.com/manaf-dev/gmsa-voting-app)
-
----
-
-### 🛍️ Clothing Retail Store Management System
-A full-stack **POS system** built with Django REST Framework and Vue.js.  
-- 🛒 **Product Management**: Add, edit, categorize products with variants  
-- 📦 **Inventory Management**: Real-time stock tracking & low-stock alerts  
-- 💳 **POS Checkout System**: Receipt generation & sales tracking  
-- 👥 **Customer Management**: Profiles, purchase history, loyalty tracking  
-- 📈 **Sales Reporting**: Analytics, export, and visualization  
-- 👨‍💼 **Staff Management**: Role-based access & staff activity tracking  
-
-**Tech Stack**  
-- **Backend:** Django REST Framework, MySQL, Python 3.10+  
-- **Frontend:** Vue.js 3, Tailwind CSS, Node.js, Axios  
-
-[🔗 View Repository](https://github.com/manaf-dev/Clothing-retail-store)
 
 ---
 
