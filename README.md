@@ -35,33 +35,6 @@ My mission is to grow into a **Senior Backend/Data Engineer** by mastering real-
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 Teaching-Internship Portfolio Submission System
-A **Teaching-Internship Portfolio Submission System** designed for my university, **AAMUSTED,** to digitize internship supervision.  
-- 🔐 **JWT-based authentication** with role-based access (Interns, Supervisors, Admins)  
-- 📝 Monthly portfolio submissions (documents, images, videos)  
-- 👤 Profile management with password updates  
-- 📊 Internship progress tracking  
-
-**Tech Stack**  
-- **Backend:** Django, Django REST Framework, SimpleJWT, PostgreSQL  
-- **Frontend:** Vue 3, Vite, Vue Router, Pinia, Tailwind CSS, Vue Toastification, Axios  
-
-[🔗 View Repository](https://github.com/manaf-dev/internship-portfolio-submission-system)
-
----
-
-### 🗳️ Voting App
-A secure digital voting system built with **Django** and **Vue.js**.  
-- 🔐 User authentication & authorization with JWT  
-- 📊 Real-time vote tallying  
-- 🌍 Designed for transparent organizational elections  
-
-[🔗 View Repository](https://github.com/manaf-dev/gmsa-voting-app)
-
----
-
 ## 📬 Get in Touch
 - 💼 [LinkedIn](https://linkedin.com/in/manaf-mohammed)  
 - 🐦 [X (Twitter)](https://x.com/manaf_dev)  
